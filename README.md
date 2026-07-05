@@ -41,3 +41,13 @@ The goal of this project is to deploy, configure, and secure a public-facing Ngi
            try_files $uri $uri/ =404;
        }
    }
+---
+
+## Proof of Practical Implementation
+*(Place your project screenshots here to demonstrate your working setup!)*
+
+1. **Azure Firewall Configuration:**
+   *(Upload your Azure NSG Rules screenshot here)*
+
+2. **Live Web Server Verification Page:**
+   *(Upload your Nginx Welcome Success Page screenshot here)*
