@@ -44,10 +44,10 @@ The goal of this project is to deploy, configure, and secure a public-facing Ngi
 ---
 
 ## Proof of Practical Implementation
-* WhatsApp Image 2026-07-05 at 14.23.27.jpeg*
+
 
 1. **Azure Firewall Configuration:**
-   *(Upload your Azure NSG Rules screenshot here)*
+   ![Azure NSG Rules](https://github.com/Techchi31/azure-linux-nginx-deployment/blob/main/WhatsApp%20Image%202026-07-05%20at%2013.44.08.jpeg)
 
 2. **Live Web Server Verification Page:**
-   *(Upload your Nginx Welcome Success Page screenshot here)*
+   ![Nginx Welcome Success Page](https://github.com/Techchi31/azure-linux-nginx-deployment/blob/main/WhatsApp%20Image%202026-07-05%20at%2014.23.27.jpeg)
