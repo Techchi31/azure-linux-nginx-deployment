@@ -50,4 +50,4 @@ The goal of this project is to deploy, configure, and secure a public-facing Ngi
    ![Azure NSG Rules](https://github.com/Techchi31/azure-linux-nginx-deployment/blob/main/WhatsApp%20Image%202026-07-05%20at%2013.44.08.jpeg)
 
 2. **Live Web Server Verification Page:**
-   ![Nginx Welcome Success Page](https://github.com/Techchi31/azure-linux-nginx-deployment/blob/main/WhatsApp%20Image%202026-07-05%20at%2014.23.27.jpeg)
+   ![Nginx Welcome Success Page](https://github.com/Techchi31/azure-linux-nginx-deployment/blob/main/WhatsApp%20Image%202026-07-05%20at%2013.43.20.jpeg)
