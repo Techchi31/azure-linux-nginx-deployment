@@ -44,7 +44,7 @@ The goal of this project is to deploy, configure, and secure a public-facing Ngi
 ---
 
 ## Proof of Practical Implementation
-*(Place your project screenshots here to demonstrate your working setup!)*
+* WhatsApp Image 2026-07-05 at 14.23.27.jpeg*
 
 1. **Azure Firewall Configuration:**
    *(Upload your Azure NSG Rules screenshot here)*
